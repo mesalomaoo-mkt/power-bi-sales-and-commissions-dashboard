@@ -51,10 +51,6 @@ This Power BI dashboard was developed to analyze sales performance, commissions,
  
 ✅ Business Intelligence
  
-## Dashboard Preview
- 
-(Add dashboard image here)
- 
 ## Author
  
 Maria Eduarda Salomão
